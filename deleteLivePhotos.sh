@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+clear
 if [ ! -d "/Users/bhayek/Desktop/iphoneMoviesToDelete/" ];
 then
 	mkdir /Users/bhayek/Desktop/iphoneMoviesToDelete/
